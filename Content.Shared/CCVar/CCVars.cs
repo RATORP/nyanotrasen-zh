@@ -1124,7 +1124,7 @@ namespace Content.Shared.CCVar
         /// </summary>
         public static readonly CVarDef<bool> CargoShuttles =
             CVarDef.Create("shuttle.cargo", true, CVar.SERVERONLY);
-        
+
         /// <summary>
         /// Whether to automatically spawn escape shuttles.
         /// </summary>
@@ -1338,7 +1338,7 @@ namespace Content.Shared.CCVar
         /// Restricts IC character names to alphanumeric chars.
         /// </summary>
         public static readonly CVarDef<bool> RestrictedNames =
-            CVarDef.Create("ic.restricted_names", true, CVar.SERVER | CVar.REPLICATED);
+            CVarDef.Create("ic.restricted_names", false, CVar.SERVER | CVar.REPLICATED);
 
         /// <summary>
         /// Allows flavor text (character descriptions)
