@@ -1,0 +1,9 @@
+species-name-human = 原型人
+species-name-dwarf = 矮人
+species-name-felinid = 菲林
+species-name-reptilian = 蜥蜴人
+species-name-slime = 史莱姆人
+species-name-oni = 鬼
+species-name-arachne = 阿拉克尼
+species-name-diona = 代欧呢
+species-name-moth = 蛾人
