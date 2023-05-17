@@ -53,5 +53,5 @@ zzzz-conjugate-basic = { GENDER($ent) ->
    *[other] { $second }
    }
 
-# Placeholder for a more proper solution for counters.
+# Default counter
 zzzz-counter-default = 个
