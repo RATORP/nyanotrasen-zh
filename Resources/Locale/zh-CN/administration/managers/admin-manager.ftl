@@ -1,9 +1,9 @@
 admin-manager-self-de-admin-message = {$exAdminName}暂时删除自己的管理员身份。
 admin-manager-self-re-admin-message = {$newAdminName}重新启用自己的管理员身份。
-admin-manager-became-normal-player-message = 你现在是普通的玩家。
-admin-manager-became-admin-message = 你现在是管理员。
-admin-manager-no-longer-admin-message = 你现在不是管理员。
-admin-manager-admin-permissions-updated-message = 你的管理员权限更新。
+admin-manager-became-normal-player-message = 您现在是普通的玩家。
+admin-manager-became-admin-message = 您现在是管理员。
+admin-manager-no-longer-admin-message = 您现在不是管理员。
+admin-manager-admin-permissions-updated-message = 您的管理员权限更新。
 admin-manager-admin-logout-message = 管理员登出： {$name}
 admin-manager-admin-login-message = 管理员登录： {$name}
 admin-manager-admin-data-host-title = 主機

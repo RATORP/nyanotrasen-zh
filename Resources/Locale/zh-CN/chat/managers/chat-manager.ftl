@@ -1,6 +1,6 @@
 ### UI
 
-chat-manager-max-message-length = 你的信息超过{$maxMessageLength}个字符限制。
+chat-manager-max-message-length = 您的信息超过{$maxMessageLength}个字符限制。
 chat-manager-ooc-chat-enabled-message = 角色之外聊天已启用。
 chat-manager-ooc-chat-disabled-message = 角色之外聊天已禁用。
 chat-manager-looc-chat-enabled-message = 局域角色之外聊天已启用。
@@ -9,11 +9,11 @@ chat-manager-dead-looc-chat-enabled-message = 死者会聊天在局域角色之�
 chat-manager-dead-looc-chat-disabled-message = 死者不会聊天在局域角色之外。
 chat-manager-admin-ooc-chat-enabled-message = 管理员角色之外聊天已启用。
 chat-manager-admin-ooc-chat-disabled-message = 管理员角色之外聊天已禁用。
-chat-manager-max-message-length-exceeded-message = 你的信息超过{$limit}个字符限制。
-chat-manager-no-headset-on-message = 你没有戴耳机！
+chat-manager-max-message-length-exceeded-message = 您的信息超过{$limit}个字符限制。
+chat-manager-no-headset-on-message = 您没有戴耳机！
 chat-manager-no-radio-key = 没有指定无线电密钥！
 chat-manager-no-such-channel = 没有使用密钥【{$key}】的频道!
-chat-manager-whisper-headset-on-message = 你不可能在无线电耳語！
+chat-manager-whisper-headset-on-message = 您不可能在无线电耳語！
 chat-manager-server-wrap-message = 服务器： {$message}
 chat-manager-sender-announcement-wrap-message = {$sender} 公告：
                                                 {$message}
