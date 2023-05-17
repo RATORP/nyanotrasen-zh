@@ -52,3 +52,8 @@ zzzz-conjugate-basic = { GENDER($ent) ->
     [epicene] { $first }
    *[other] { $second }
    }
+
+# Placeholder for a more proper solution for counters.
+zzzz-counter = { ATTRIB($ent) ->
+    *[other] 个
+}

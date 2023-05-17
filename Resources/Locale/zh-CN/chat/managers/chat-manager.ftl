@@ -7,8 +7,8 @@ chat-manager-looc-chat-enabled-message = 局域角色之外聊天已启用。
 chat-manager-looc-chat-disabled-message = 局域角色之外聊天已禁用。
 chat-manager-dead-looc-chat-enabled-message = 死者会聊天在局域角色之外。
 chat-manager-dead-looc-chat-disabled-message = 死者不会聊天在局域角色之外。
-chat-manager-admin-ooc-chat-enabled-message = 管理员角色之外聊天已启用。
-chat-manager-admin-ooc-chat-disabled-message = 管理员角色之外聊天已禁用。
+chat-manager-admin-ooc-chat-enabled-message = 管理角色之外聊天已启用。
+chat-manager-admin-ooc-chat-disabled-message = 管理角色之外聊天已禁用。
 chat-manager-max-message-length-exceeded-message = 您的信息超过{$limit}个字符限制。
 chat-manager-no-headset-on-message = 您没有戴耳机！
 chat-manager-no-radio-key = 没有指定无线电密钥！
@@ -30,7 +30,7 @@ chat-manager-send-admin-announcement-wrap-message = {$adminChannelName}： {$mes
 chat-manager-send-hook-ooc-wrap-message = 角色之外： (D){$senderName}： {$message}
 
 chat-manager-dead-channel-name = 死者
-chat-manager-admin-channel-name = 管理员
+chat-manager-admin-channel-name = 管理
 
 chat-manager-send-telepathic-chat-wrap-message = {$telepathicChannelName}： {$message}
 chat-manager-send-telepathic-chat-wrap-message-admin = {$source}(Ψ)： {$message}

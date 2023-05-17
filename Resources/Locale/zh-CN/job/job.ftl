@@ -1,4 +1,4 @@
-job-greet-station-name = 欢迎登机{$stationName}.
+job-greet-station-name = 欢迎乘坐{$stationName}.
 job-greet-introduce-job-name = 您的角色是： {$jobName}.
 job-greet-important-disconnect-admin-notify = 您的工作对回合很重要。如果您必须断开，请通知管理员。
 job-greet-supervisors-warning = 作为{$jobName}，您要对{$supervisors}负责。这在特殊情况下可能改变。
