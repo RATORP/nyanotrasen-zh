@@ -54,6 +54,4 @@ zzzz-conjugate-basic = { GENDER($ent) ->
    }
 
 # Placeholder for a more proper solution for counters.
-zzzz-counter = { ATTRIB($ent) ->
-    *[other] 个
-}
+zzzz-counter-default = 个
