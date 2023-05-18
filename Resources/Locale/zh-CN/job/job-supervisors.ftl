@@ -1,0 +1,16 @@
+﻿job-supervisors-captain = 舰长
+job-supervisors-ce = 工程部长
+job-supervisors-centcom = 中央指挥部
+job-supervisors-cmo = 医疗部长
+job-supervisors-engineering = 工程部
+job-supervisors-everyone = 大家
+job-supervisors-hire = 谁雇用您
+job-supervisors-hop = 人事部长
+job-supervisors-hop-qm = 军需官和人事部长
+job-supervisors-hos = 安保部长
+job-supervisors-human = 全人类：原型人和变种人
+job-supervisors-medicine = 医疗部
+job-supervisors-rd = 秘法家
+job-supervisors-service = 服务部
+job-supervisors-security = 安保部
+job-supervisors-warden = 典狱长和安保部长

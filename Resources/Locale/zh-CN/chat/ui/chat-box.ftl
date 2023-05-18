@@ -1,0 +1,31 @@
+hud-chatbox-info = {$talk-key} to talk, {$cycle-key} to cycle channels.
+
+hud-chatbox-select-name-prefixed = {$prefix} {$name}
+hud-chatbox-select-channel-Admin = 管理员
+hud-chatbox-select-channel-Console = 終端
+hud-chatbox-select-channel-Dead = 死者
+hud-chatbox-select-channel-Emotes = 表情
+hud-chatbox-select-channel-Local = 局域
+hud-chatbox-select-channel-Whisper = 耳語
+hud-chatbox-select-channel-LOOC = 局域角色之外
+hud-chatbox-select-channel-OOC = 角色之外
+hud-chatbox-select-channel-Damage = 伤害
+hud-chatbox-select-channel-Visual = 动作
+hud-chatbox-select-channel-Radio = 无线电
+hud-chatbox-select-channel-Telepathic = 心灵感应
+
+hud-chatbox-channel-Admin = 管理员杂项
+hud-chatbox-channel-AdminAlert = 管理员警报
+hud-chatbox-channel-AdminChat = 管理员聊天
+hud-chatbox-channel-Dead = 死者
+hud-chatbox-channel-Emotes = 表情
+hud-chatbox-channel-Local = 局域
+hud-chatbox-channel-Whisper = 耳語
+hud-chatbox-channel-LOOC = 局域角色之外
+hud-chatbox-channel-OOC = 角色之外
+hud-chatbox-channel-Radio = 无线电
+hud-chatbox-channel-Server = 服务器
+hud-chatbox-channel-Telepathic = 心灵感应
+hud-chatbox-channel-Visual = 动作
+hud-chatbox-channel-Damage = 伤害
+hud-chatbox-channel-Unspecified = 未指定
