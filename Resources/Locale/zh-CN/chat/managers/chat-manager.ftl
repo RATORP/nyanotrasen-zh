@@ -15,7 +15,7 @@ chat-manager-no-radio-key = 没有指定无线电密钥！
 chat-manager-no-such-channel = 没有使用密钥【{$key}】的频道!
 chat-manager-whisper-headset-on-message = 您不可能在无线电耳語！
 chat-manager-server-wrap-message = 服务器： {$message}
-chat-manager-sender-announcement-wrap-message = {$sender} 公告：
+chat-manager-sender-announcement-wrap-message = {$sender}公告：
                                                 {$message}
 chat-manager-entity-say-wrap-message = {$entityName}说“{$message}”
 chat-manager-entity-whisper-wrap-message = {$entityName}低声说“{$message}”
